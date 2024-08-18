@@ -24,7 +24,7 @@ To get started, clone the repository to your local machine:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/help-center-api.git
+git clone https://github.com/Tariq-act/helpcenter.git
 
 # Navigate into backend folder
 cd backend
